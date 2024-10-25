@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
   Welcome!
 </h1>
 
-I am a software enthusiast and an engineering student from NITK, Surathkal. Currently working on many projects and hoping to learn more by doing so! :D
+I am a software enthusiast and an engineering student from NITK, Surathkal. Currently working on many projects and hoping to learn more by doing so!
 
 <h2>
   Main interests
