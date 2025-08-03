@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukitya-1811" alt="yukitya-1811" /></a> </p>
 
-- 🔭 I’m currently working on [IRIS](https://iris.nitk.ac.in)
+- 🔭 I’m currently working on [IRIS](https://iris.nitk.ac.in), [IEEE](https://ieee.nitk.ac.in)
 
 - 🌱 I’m currently learning **Java Swing**
 
