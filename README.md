@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Django, Ruby on Rails, Godot, eBPFs**
 
-- 📄 Know about my experiences [Software Engineering Intern @ Qualcomm](Software Engineering Intern @ Qualcomm)
+- 📄 Know about my experiences - Software Engineering Intern @ Qualcomm
 
 - ⚡ Fun fact **I play the guitar**
 
